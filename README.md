@@ -18,5 +18,5 @@ Download the `detector.py` file.
 On `Line 8` replace the path of saved model with the actual path where the downloaded file was saved on your system (Most probably in your Downloads folder)
 
 ## Running the detector
-On your terminal, run the [detector.py](https://github.com/fuzail1011/fake_detect_system/blob/nothemain/detector.py) file as `python detector.py "your_test_image_location.jpg"` 
+On your terminal, run the [detector.py](https://github.com/fuzail1011/fake_detect_system/blob/nothemain/detector.py) file as `python detector.py "your_test_image_location.jpg"`  
 Replace your_test_image_location with the actual location of the image that you want to detect as real or fake
