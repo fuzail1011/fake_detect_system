@@ -13,4 +13,4 @@ It is divided into two subfolders, fake and real representing the fake images an
 The dataset consists of 1081 real images and 960 fake images
 
 ## Installation
-PLease download the 'detector_model.h5' file to access the saved model
+PLease download the `detector_model.h5` file to access the saved model
