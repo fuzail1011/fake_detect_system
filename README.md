@@ -33,6 +33,8 @@ Model Architecture
 - Total Number of Trainable Parameters: 25,583,592
 - Total Number of Non-trainable Parameters: 53,120
 
+The model was trained on an Nvidia GeForce GTX 1650 Ti, with CUDA version 11.7  
+
 ## Additional Model Insights
 Attempt - 1 : Using a CNN with 15 layers  
 The accuracy obtained from this model was around 0.5 and hence not sufficient to give a good result. This model was rejected.  
