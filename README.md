@@ -13,7 +13,7 @@ It is divided into two subfolders, fake and real representing the fake images an
 The dataset consists of 1081 real images and 960 fake images
 
 ## Setup
-PLease download the `detector_model.h5` file to access the saved model
+PLease download the `detector_model.h5` file to access the saved model  
 Download the `detector.py` file.   
 On `Line 8` replace the path of saved model with the actual path where the downloaded file was saved on your system (Most probably in your Downloads folder)
 
