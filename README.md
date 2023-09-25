@@ -13,7 +13,7 @@ It is divided into two subfolders, fake and real representing the fake images an
 The dataset consists of 1081 real images and 960 fake images
 
 ## Setup
-PLease download the `detector_model.h5` file to access the saved model  
+Please download the `detector_model.h5` file to access the saved model  
 Download the `detector.py` file.   
 On `Line 8` replace the path of saved model with the actual path where the downloaded file was saved on your system (Most probably in your Downloads folder)
 
@@ -25,7 +25,7 @@ Note: The image format has to be in `.jpg`
 ## Model
 The model used is a `ResNet-50`  
 It is an improved CNN which is 50 layers deep. This model is excellent for image processing, and can evaluate images with a high accuracy.  
-The model is implemented using Tensorflow and Keras libraries. It was run for 40 epochs, after which the accuracy of the model was consistently above 0.95
+The model is implemented using the Tensorflow and Keras libraries. It was trained for 40 epochs.  After this training period, the model consistently achieved an accuracy of over 0.95
 
 Model Architecture  
 - Input Shape: (96, 96, 3) - Typically, RGB images of size 96x96 pixels.
@@ -33,7 +33,7 @@ Model Architecture
 - Total Number of Trainable Parameters: 24,060,162
 - Total Number of Non-trainable Parameters: 53,632
 
-The model was trained on an Nvidia GeForce GTX 1650 Ti, with CUDA version 11.7  
+The model was trained on an NVIDIA GeForce GTX 1650 Ti, with CUDA version 11.7  
 
 ## Additional Model Insights
 Attempt - 1 : Using a CNN with 15 layers  
