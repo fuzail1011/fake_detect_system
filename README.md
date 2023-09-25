@@ -40,4 +40,9 @@ Attempt - 1 : Using a CNN with 15 layers
 The accuracy obtained from this model was around 0.5 and hence not sufficient to give a good result. This model was rejected.  
 Attempt - 2 : Using a Discriminator GAN model  
 The accuracy obtained in this model was around 0.4, which is not sufficient and hence rejected.  
-Attempt - 3 : Using the ResNet-50, which gives the best accuracy and therfore was finalized for model creation to solve the problem.
+Attempt - 3 : Using the ResNet-50, which gives the best accuracy and therfore was finalized for model creation to solve the problem.  
+
+## References  
+- https://www.ijcrt.org/papers/IJCRT2005044.pdf
+- https://philarchive.org/archive/SALCOR-3
+- E. R. S. de Rezende, G. C. S. Ruppert and T. Carvalho, "Detecting Computer Generated Images with Deep Convolutional Neural Networks," 2017 30th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Niteroi, Brazil, 2017, pp. 71-78, doi: 10.1109/SIBGRAPI.2017.16.  URL - (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8097296&isnumber=8097279)
