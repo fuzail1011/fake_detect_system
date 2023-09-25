@@ -28,7 +28,7 @@ It is an improved CNN which is 50 layers deep. This model is excellent for image
 The model is implemented using Tensorflow and Keras libraries. It was run for 40 epochs, after which the accuracy of the model was consistently above 0.95
 
 Model Architecture  
-- Input Shape: (224, 224, 3) - Typically, RGB images of size 224x224 pixels.
+- Input Shape: (96, 96, 3) - Typically, RGB images of size 96x96 pixels.
 - Total Number of Parameters: 25,636,712
 - Total Number of Trainable Parameters: 25,583,592
 - Total Number of Non-trainable Parameters: 53,120
