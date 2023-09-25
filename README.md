@@ -46,3 +46,4 @@ Attempt - 3 : Using the ResNet-50, which gives the best accuracy and therfore wa
 - https://www.ijcrt.org/papers/IJCRT2005044.pdf
 - https://philarchive.org/archive/SALCOR-3
 - E. R. S. de Rezende, G. C. S. Ruppert and T. Carvalho, "Detecting Computer Generated Images with Deep Convolutional Neural Networks," 2017 30th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Niteroi, Brazil, 2017, pp. 71-78, doi: 10.1109/SIBGRAPI.2017.16.  URL - (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8097296&isnumber=8097279)
+- https://datagen.tech/guides/computer-vision/resnet-50/#:~:text=ResNet%2D50%20Architecture,-The%20original%20ResNet&text=It%20provided%20a%20novel%20way,network%20to%20a%20residual%20network.
