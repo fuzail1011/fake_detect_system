@@ -42,6 +42,11 @@ Attempt - 2 : Using a Discriminator GAN model
 The accuracy obtained in this model was around 0.4, which is not sufficient and hence rejected.  
 Attempt - 3 : Using the ResNet-50, which gives the best accuracy and therfore was finalized for model creation to solve the problem.  
 
+## Future Enhancements
+- Creation of a simple Flask application which takes input as multiple images and classifies them as Real or Fake
+- Exploring and adopting state-of-the-art neural network architectures to improve detection accuracy
+- Optimize the model for efficiency to make it feasible for large-scale deployment  
+
 ## References  
 - https://www.ijcrt.org/papers/IJCRT2005044.pdf
 - https://philarchive.org/archive/SALCOR-3
