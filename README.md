@@ -29,9 +29,9 @@ The model is implemented using Tensorflow and Keras libraries. It was run for 40
 
 Model Architecture  
 - Input Shape: (96, 96, 3) - Typically, RGB images of size 96x96 pixels.
-- Total Number of Parameters: 25,636,712
-- Total Number of Trainable Parameters: 25,583,592
-- Total Number of Non-trainable Parameters: 53,120
+- Total Number of Parameters: 24,113,794
+- Total Number of Trainable Parameters: 24,060,162
+- Total Number of Non-trainable Parameters: 53,632
 
 The model was trained on an Nvidia GeForce GTX 1650 Ti, with CUDA version 11.7  
 
