@@ -32,3 +32,10 @@ Model Architecture
 - Total Number of Parameters: 25,636,712
 - Total Number of Trainable Parameters: 25,583,592
 - Total Number of Non-trainable Parameters: 53,120
+
+## Additional Model Insights
+Attempt - 1 : Using a CNN with 15 layers  
+The accuracy obtained from this model was around 0.5 and hence not sufficient to give a good result. This model was rejected.  
+Attempt - 2 : Using a Discriminator GAN model  
+The accuracy obtained in this model was around 0.4, which is not sufficient and hence rejected.  
+Attempt - 3 : Using the ResNet-50, which gives the best accuracy and therfore was finalized for model creation to solve the problem.
