@@ -1,4 +1,4 @@
-# Challenging Fake Image Detection using GAN Models (Problem - 1)
+# Challenging Fake Image Detection using GAN Models
 ## Problem Statement
 Detecting fake or manipulated images in today's digital age has become increasingly
 challenging due to the advancements in Generative Adversarial Networks (GANs). These
